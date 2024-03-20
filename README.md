@@ -1,7 +1,7 @@
 # BotFB
 Kumpulan Bot Automation Facebook 
 ### Fitur :
-   ![Screenshot](Screenshot/screenshot.png)
+   ![Screenshot](screenshot.png)
    
 ### Perintah Termux :
     $ apt update -y && apt upgrade -y
