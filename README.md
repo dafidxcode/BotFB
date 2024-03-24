@@ -1,5 +1,8 @@
 # BotFB
-Kumpulan Bot Automation Facebook 
+Kumpulan Bot Facebook Automation:
+Auto Create Account, Autopost Groups, Auto Delete or Add Friends, Change Privacy or Delete All Posts (Status/Photos/Albums), Tag Remover, Poke All Friends And Anymore.
+
+
 ### Fitur :
    ![Screenshot](screenshot.png)
    
