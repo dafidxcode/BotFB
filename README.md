@@ -4,7 +4,7 @@ Auto Create Account, Autopost Groups, Auto Delete or Add Friends, Change Privacy
 
 
 ### Fitur :
-   ![Screenshot](screenshot.png)
+   ![Screenshot](ss.png)
    
 ### Perintah Termux :
     $ apt update -y && apt upgrade -y
